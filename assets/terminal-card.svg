@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="408" viewBox="0 0 900 408" role="img" aria-label="Umer Karachiwala, Backend and DevOps Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b120e"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.15" cy="0.2" r="0.9">
+      <stop offset="0" stop-color="#39FF88" stop-opacity="0.09"/><stop offset="1" stop-color="#39FF88" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#39FF88" opacity="0.025"/>
+    </pattern>
+    <clipPath id="card"><rect x="1" y="1" width="898" height="406" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="900" height="408" fill="url(#bg)"/>
+    <rect width="900" height="408" fill="url(#glow)"/>
+    <rect width="900" height="408" fill="url(#scan)"/>
+    <rect width="900" height="44" fill="#070b09"/>
+  </g>
+  <rect x="1" y="1" width="898" height="406" rx="14" fill="none" stroke="#39FF88" stroke-opacity="0.3"/>
+  <circle cx="28" cy="22" r="6" fill="#FF5F57"/><circle cx="48" cy="22" r="6" fill="#FEBC2E"/><circle cx="68" cy="22" r="6" fill="#28C840"/>
+  <text x="450" y="27" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#39FF88" opacity="0.7">umer@cork: ~/profile</text>
+  <g font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,monospace" font-size="18">
+    <g><text x="40" y="92" fill="#6e7681">$</text><text x="60" y="92" fill="#39FF88">whoami</text><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.25s" fill="freeze"/></g>
+    <g><text x="40" y="122" fill="#e6edf3" font-size="17">Umer Karachiwala</text><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.643;1" dur="0.70s" fill="freeze"/></g>
+    <g><text x="40" y="162" fill="#6e7681">$</text><text x="60" y="162" fill="#39FF88">cat role</text><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.783;1" dur="1.15s" fill="freeze"/></g>
+    <g><text x="40" y="192" fill="#e6edf3" font-size="17">Backend &amp; DevOps Engineer · Software Engineer Intern @ Apple</text><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.844;1" dur="1.60s" fill="freeze"/></g>
+    <g><text x="40" y="232" fill="#6e7681">$</text><text x="60" y="232" fill="#39FF88">cat focus</text><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.878;1" dur="2.05s" fill="freeze"/></g>
+    <g><text x="40" y="262" fill="#e6edf3" font-size="17">distributed systems · real-time AI pipelines · cloud infrastructure</text><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.900;1" dur="2.50s" fill="freeze"/></g>
+    <g><text x="40" y="302" fill="#6e7681">$</text><text x="60" y="302" fill="#39FF88">uptime</text><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.915;1" dur="2.95s" fill="freeze"/></g>
+    <g><text x="40" y="332" fill="#e6edf3" font-size="17">2+ yrs shipping production backends · based in Cork, Ireland</text><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.926;1" dur="3.40s" fill="freeze"/></g>
+    <g><text x="40" y="372" fill="#6e7681">$</text><rect x="60" y="357" width="10" height="19" fill="#39FF88"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.935;1" dur="3.85s" fill="freeze"/></g>
+  </g>
+</svg>
