@@ -28,7 +28,7 @@ METRICS = [
     "~80% Faster Resolution",
     "Multi-DC Search on OpenSearch",
     "Sub-second Live Audio Pipeline",
-    "GenAI Hackathon Lead · Shortlisted",
+    "Apple GenAI Hackathon Lead · Shortlisted for Sponsorship",
 ]
 
 CARD_WIDTH = 900

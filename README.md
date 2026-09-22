@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="assets/metrics-pills.svg" width="900" alt="2+ years shipping production systems · ex-Apple Software Engineer Intern · 900K+ Apple Store URLs schedulable · ~100 stuck changesets unblocked · ~80% faster resolution · multi-DC search on OpenSearch · sub-second live audio pipeline · GenAI Hackathon lead, shortlisted"/>
+<img src="assets/metrics-pills.svg" width="900" alt="2+ years shipping production systems · ex-Apple Software Engineer Intern · 900K+ Apple Store URLs schedulable · ~100 stuck changesets unblocked · ~80% faster resolution · multi-DC search on OpenSearch · sub-second live audio pipeline · Apple GenAI Hackathon lead, shortlisted for sponsorship"/>
 </p>
 
 <p align="center">
