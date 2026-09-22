@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.umer-karachiwala.com/"><img src="assets/terminal-card.svg" width="900" alt="Umer Karachiwala · Backend & DevOps Engineer · Software Engineer Intern @ Apple · Cork, Ireland"/></a>
+<a href="https://www.umer-karachiwala.com/"><img src="assets/terminal-card.svg" width="900" alt="Umer Karachiwala · Backend & DevOps Engineer · ex-Apple Software Engineer Intern · Dublin, Ireland"/></a>
 </p>
 
 <p align="center">
@@ -10,12 +10,13 @@
 </p>
 
 <p align="center">
-<img src="assets/metrics-pills.svg" width="900" alt="2+ years backend engineering · Software Engineer Intern at Apple · 100+ live interviews joined by my Teams bot · 5 enterprise clients · sub-second audio streaming · ~90% less manual compliance work · 98% RAG answer accuracy · CI/CD owner for a 12-engineer team"/>
+<img src="assets/metrics-pills.svg" width="900" alt="2+ years shipping production systems · ex-Apple Software Engineer Intern · 900K+ Apple Store URLs schedulable · ~100 stuck changesets unblocked · ~80% faster resolution · multi-DC search on OpenSearch · sub-second live audio pipeline · GenAI Hackathon lead, shortlisted"/>
 </p>
 
 <p align="center">
-Backend &amp; DevOps engineer building <b>distributed backends</b>, <b>real-time AI pipelines</b> and the <b>cloud infrastructure</b> they run on.<br/>
-MSc Computing (DevOps) at ATU · researching the carbon cost of CI/CD pipelines.
+Backend &amp; DevOps engineer with 2+ years shipping production systems at <b>Apple</b> and early-stage startups.<br/>
+From <b>event-driven architectures</b> to <b>real-time AI pipelines</b>, I like owning hard problems end to end.<br/>
+MSc Computing (DevOps), ATU · researched the carbon cost of CI/CD pipelines.
 </p>
 
 <p align="center"><b>Open to Backend · Platform · DevOps · SRE · Real-time AI engineering roles.</b></p>
@@ -24,28 +25,35 @@ MSc Computing (DevOps) at ATU · researching the carbon cost of CI/CD pipelines.
 
 ## ⚡ Impact
 
+### <img src="https://skillicons.dev/icons?i=java" height="22" align="center"/>&nbsp; Apple · Software Engineer Intern
+<sub>Mar 2026 – Sep 2026 · Java · Spring Boot · Cassandra · OpenSearch · SNS/SQS</sub>
+
+- Built **Scheduled Updates** and **Revert Changeset** across **5 SEO services**, letting business teams schedule SEO metadata changes up to **3 months ahead for 900K+ Apple Store URLs**
+- Added checks that stop conflicting SEO edits from corrupting live data, then fixed a Cassandra issue that **unblocked ~100 stuck changesets** and cut resolution time by **~80%**
+- Evaluated **OpenSearch vs Apple's managed Solr** on data types, indexing and query performance, then provisioned it across environments with Apple's DB team
+- Built changeset content search on OpenSearch with **SNS/SQS replication across a multi-DC deployment**, so business teams search before/after values across hundreds of thousands of records instead of opening each one
+- **Led a cross-functional team at Apple's internal GenAI Hackathon** (shortlisted for sponsorship) and started productionising a tool that automates regulatory document ingestion, version diffing and compliance reporting for supply chain teams
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://skillicons.dev/icons?i=java" height="22" align="center"/>&nbsp; Apple · Software Engineer Intern
-<sub>Mar 2026 – Present · Cork, Ireland</sub>
+### <img src="https://skillicons.dev/icons?i=dotnet" height="22" align="center"/>&nbsp; WebOsmotic · Jr Backend Engineer
+<sub>Apr 2024 – Jun 2025 · C# · .NET · Azure · Python · RAG</sub>
 
-- Backend engineer on a **distributed platform of 4 services** (Java · Spring Boot · Cassandra · SQS · Solr)
-- Built **scheduled updates** and **changeset revert** features end to end
-- Delivered **19 of 25 tracked workstreams in ~12 weeks** across features, platform health and CI stability
-- Tuned **Cassandra consistency levels** and removed redundant DB reads on hot update paths
+- Built and ran a **Microsoft Teams bot as an Azure multi-tenant service** that joins scheduled interviews on its own, owning uptime and session reliability across concurrent tenants
+- Designed a **sub-second WebSocket pipeline** streaming live audio from the C# bot to a Python AI server, with stream health checks and reconnect handling
+- Built document ingestion and **RAG questionnaire automation** for narad.io, an AI-powered TPRM platform
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://skillicons.dev/icons?i=dotnet" height="22" align="center"/>&nbsp; WebOsmotic · Backend Engineer
-<sub>Apr 2024 – Jun 2025 · Remote</sub>
+### <img src="https://skillicons.dev/icons?i=nodejs" height="22" align="center"/>&nbsp; WebOsmotic · Software Engineer Intern
+<sub>Oct 2023 – Mar 2024 · Node.js · MongoDB · REST</sub>
 
-- Built a **.NET Microsoft Teams bot** that joins interviews on its own: **100+ sessions across 5 enterprise clients**
-- **Sub-second** WebSocket audio relay from C# to a Python AI server for live transcription and speaker detection
-- RAG pipelines for compliance questionnaires: **~90% less manual work at up to 98% accuracy**
-- Owned **Jenkins CI/CD for a 12-engineer team** across Docker, AKS and Azure Pipelines
+- Built the core backend of an internal **intranet platform**: projects, documents and employee admin
+- Integrated a **live biometric punch-machine stream** and a timezone-aware shift API that stores everything in UTC, removing multi-timezone data bugs at the source
+- Worked directly with the CEO and PM on demos, client feedback and early go-to-market
 
 </td>
 </tr>
@@ -137,10 +145,11 @@ MSc Computing (DevOps) at ATU · researching the carbon cost of CI/CD pipelines.
 
 | Project | What it is |
 |---|---|
+| [Restaurant platform (Australia)](https://github.com/Umer-2612/Restaurant-Api) | Backend API with **Stripe** payments and admin controls for a live client restaurant site, on AWS EC2 with health checks and auto-restart |
+| Multi-Agent Voice AI Framework | Multi-agent framework for GPT-driven business automation: agent memory, tool use and reasoning loops, with encrypted message queues and anonymised logs |
 | [FedSC-Risk](https://github.com/Umer-2612/FedSC-Risk) | Federated learning with **differential privacy** (Flower, Opacus, PyTorch) for supply chain risk prediction |
 | [Vernacular Text Interpreter](https://github.com/Umer-2612/Cursor-Hackathon-Dublin) | Cursor Hackathon Dublin: turns Hinglish typed in English letters into Devanagari, meaning, intent and tone |
 | [umer-claude-skills](https://github.com/Umer-2612/umer-claude-skills) | My Claude Code skills for code review, git workflow and writing tone |
-| [Restaurant-Api](https://github.com/Umer-2612/Restaurant-Api) | Production backend for a live restaurant site in Australia, with Stripe payments |
 
 </details>
 
@@ -163,21 +172,46 @@ MSc Computing (DevOps) at ATU · researching the carbon cost of CI/CD pipelines.
 <p align="center">
 <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zoom_SDK-0B5CFF?style=flat-square&logo=zoom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_SQS%2FSNS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white"/>
 </p>
 
 ---
 
 ## 🏆 Recognition
 
+- **Apple GenAI Hackathon**: led a cross-functional team, project shortlisted for sponsorship
 - **Employee of the Month** ("The Challenge Seeker") at WebOsmotic, for backend work
-- **FusionHack 2024 finalist**: Go scheduling API with real-time orchestration
-- **Cursor Hackathon Dublin** participant
-- **300+** algorithm problems solved · mentored **20+** students in data structures and backend basics
+- **FusionHack 2024 finalist**: Go API for event management with real-time scheduling
+- **300+** problems solved on LeetCode and other platforms · mentored **20+** students for coding interviews
+
+---
+
+## 🎓 Education
+
+- **MSc Computing in DevOps**, Atlantic Technological University, Donegal, Ireland · Sep 2025 – Sep 2026
+- **B.Tech Computer Engineering**, Bhagwan Mahavir College of Engineering and Technology, Surat, India · 2021 – 2025 · CGPA 8.48/10
+
+<details>
+<summary><b>Certifications</b></summary>
+<br/>
+
+- **AWS Cloud Quest: Generative AI Practitioner**: Amazon Bedrock and foundation models
+- **AWS Fundamentals of Machine Learning and AI**: ML lifecycle, SageMaker, Rekognition, Comprehend
+- **AWS Cloud Quest: Cloud Practitioner** and **Cloud Essentials**: compute, storage, networking, IAM
+- **MongoDB: Search with MongoDB**: lexical search, BM25 ranking, `$search` indexing
+- **MongoDB: AI-Powered Search with Vector Search**: embeddings, vector indexes, retrieval strategies
+- **Web Development Bootcamp** by Angela Yu
+
+</details>
 
 ---
 

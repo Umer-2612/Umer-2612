@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="128" viewBox="0 0 900 128" role="img" aria-label="2+ Years Backend Engineering · Software Engineer Intern @ Apple · 100+ Live Interviews Joined by My Teams Bot · 5 Enterprise Clients · Sub-second Audio Streaming · ~90% Less Manual Compliance Work · 98% RAG Answer Accuracy · CI/CD Owner for a 12-Engineer Team">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="128" viewBox="0 0 900 128" role="img" aria-label="2+ Years Shipping Production Systems · ex-Apple Software Engineer Intern · 900K+ Apple Store URLs Schedulable · ~100 Stuck Changesets Unblocked · ~80% Faster Resolution · Multi-DC Search on OpenSearch · Sub-second Live Audio Pipeline · GenAI Hackathon Lead · Shortlisted">
   <defs>
     <linearGradient id="pill" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#15231b"/><stop offset="1" stop-color="#0f1813"/>
     </linearGradient>
   </defs>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#d7ffe6">
-    <rect x="26.5" y="2" width="230.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="141.5" y="23" text-anchor="middle">2+ Years Backend Engineering</text>
-    <rect x="268.5" y="2" width="258.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="397.5" y="23" text-anchor="middle">Software Engineer Intern @ Apple</text>
-    <rect x="538.5" y="2" width="335.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="706.0" y="23" text-anchor="middle">100+ Live Interviews Joined by My Teams Bot</text>
-    <rect x="10.5" y="48" width="174.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="97.5" y="69" text-anchor="middle">5 Enterprise Clients</text>
-    <rect x="196.5" y="48" width="216.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="304.5" y="69" text-anchor="middle">Sub-second Audio Streaming</text>
-    <rect x="424.5" y="48" width="258.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="553.5" y="69" text-anchor="middle">~90% Less Manual Compliance Work</text>
-    <rect x="694.5" y="48" width="195.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="792.0" y="69" text-anchor="middle">98% RAG Answer Accuracy</text>
-    <rect x="314.0" y="94" width="272.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="450.0" y="115" text-anchor="middle">CI/CD Owner for a 12-Engineer Team</text>
+    <rect x="26.5" y="2" width="286.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="169.5" y="23" text-anchor="middle">2+ Years Shipping Production Systems</text>
+    <rect x="324.5" y="2" width="265.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="457.0" y="23" text-anchor="middle">ex-Apple Software Engineer Intern</text>
+    <rect x="601.5" y="2" width="272.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="737.5" y="23" text-anchor="middle">900K+ Apple Store URLs Schedulable</text>
+    <rect x="100.0" y="48" width="251.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="225.5" y="69" text-anchor="middle">~100 Stuck Changesets Unblocked</text>
+    <rect x="363.0" y="48" width="188.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="457.0" y="69" text-anchor="middle">~80% Faster Resolution</text>
+    <rect x="563.0" y="48" width="237.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="681.5" y="69" text-anchor="middle">Multi-DC Search on OpenSearch</text>
+    <rect x="186.0" y="94" width="244.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="308.0" y="115" text-anchor="middle">Sub-second Live Audio Pipeline</text>
+    <rect x="442.0" y="94" width="272.0" height="32" rx="16" fill="url(#pill)" stroke="#2f5b41"/><text x="578.0" y="115" text-anchor="middle">GenAI Hackathon Lead · Shortlisted</text>
   </g>
 </svg>

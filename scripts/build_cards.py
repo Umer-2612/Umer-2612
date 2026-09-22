@@ -15,20 +15,20 @@ SANS = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 
 TERMINAL_LINES = [
     ("whoami", "Umer Karachiwala"),
-    ("cat role", "Backend & DevOps Engineer · Software Engineer Intern @ Apple"),
-    ("cat focus", "distributed systems · real-time AI pipelines · cloud infrastructure"),
-    ("uptime", "2+ yrs shipping production backends · based in Cork, Ireland"),
+    ("cat role", "Backend & DevOps Engineer · ex-Apple Software Engineer Intern"),
+    ("cat focus", "distributed systems · event-driven backends · real-time AI pipelines"),
+    ("uptime", "2+ yrs shipping production systems · based in Dublin, Ireland"),
 ]
 
 METRICS = [
-    "2+ Years Backend Engineering",
-    "Software Engineer Intern @ Apple",
-    "100+ Live Interviews Joined by My Teams Bot",
-    "5 Enterprise Clients",
-    "Sub-second Audio Streaming",
-    "~90% Less Manual Compliance Work",
-    "98% RAG Answer Accuracy",
-    "CI/CD Owner for a 12-Engineer Team",
+    "2+ Years Shipping Production Systems",
+    "ex-Apple Software Engineer Intern",
+    "900K+ Apple Store URLs Schedulable",
+    "~100 Stuck Changesets Unblocked",
+    "~80% Faster Resolution",
+    "Multi-DC Search on OpenSearch",
+    "Sub-second Live Audio Pipeline",
+    "GenAI Hackathon Lead · Shortlisted",
 ]
 
 CARD_WIDTH = 900
@@ -98,7 +98,7 @@ def build_terminal_card() -> str:
   </g>
   <rect x="1" y="1" width="{CARD_WIDTH - 2}" height="{height - 2}" rx="14" fill="none" stroke="{ACCENT}" stroke-opacity="0.3"/>
   <circle cx="28" cy="22" r="6" fill="#FF5F57"/><circle cx="48" cy="22" r="6" fill="#FEBC2E"/><circle cx="68" cy="22" r="6" fill="#28C840"/>
-  <text x="{CARD_WIDTH // 2}" y="27" text-anchor="middle" font-family="{MONO}" font-size="13" fill="{ACCENT}" opacity="0.7">umer@cork: ~/profile</text>
+  <text x="{CARD_WIDTH // 2}" y="27" text-anchor="middle" font-family="{MONO}" font-size="13" fill="{ACCENT}" opacity="0.7">umer@dublin: ~/profile</text>
   <g font-family="{MONO}" font-size="18">
     {chr(10).join('    ' + r for r in rows).strip()}
   </g>
