@@ -67,6 +67,46 @@ MSc Computing (DevOps), ATU · researched the carbon cost of CI/CD pipelines.
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center"><a href="https://github.com/Umer-2612/mcp-eval-gate">mcp-eval-gate</a></h3>
+
+<p align="center">
+<img src="https://img.shields.io/pypi/v/mcp-eval-gate?style=flat&color=39FF88&logo=pypi&logoColor=white" alt="PyPI version"/>
+<img src="https://img.shields.io/github/last-commit/Umer-2612/mcp-eval-gate?style=flat&color=39FF88" alt="last commit"/>
+</p>
+
+<p align="center">CI regression gate for <b>MCP servers</b>. Records what a server's tools return and fails the build when the output gets worse, even when the schema does not change. Reproduced against a <b>real bug in the official filesystem server</b>. Published on PyPI.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=flat"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Umer-2612/platform">Interview Platform</a></h3>
+
+<p align="center">
+<img src="https://img.shields.io/github/last-commit/Umer-2612/platform?style=flat&color=39FF88" alt="last commit"/>
+</p>
+
+<p align="center">One-link hiring platform. A candidate gets a single <b>token-gated link and no account</b> for three rounds: timed DSA, an AI voice technical interview, and a VS Code bug-fix. Hiring managers run jobs, resumes and results from a dashboard.</p>
+
+<p align="center"><sub><b>In progress:</b> 3 of 6 services built (<a href="https://github.com/Umer-2612/core-api">core-api</a>, <a href="https://github.com/Umer-2612/web-frontend">web-frontend</a>, <a href="https://github.com/Umer-2612/judge-service">judge-service</a>). Voice, VS Code and live-editor services are planned.</sub></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <h3 align="center"><a href="https://github.com/Umer-2612/realtime-meeting-intelligence">Realtime Meeting Intelligence</a></h3>
 
 <p align="center">
@@ -89,7 +129,6 @@ MSc Computing (DevOps), ATU · researched the carbon cost of CI/CD pipelines.
 <h3 align="center"><a href="https://github.com/Umer-2612/realtime-transcribe">realtime-transcribe</a></h3>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Umer-2612/realtime-transcribe?style=flat&color=39FF88&logo=github" alt="stars"/>
 <img src="https://img.shields.io/github/last-commit/Umer-2612/realtime-transcribe?style=flat&color=39FF88" alt="last commit"/>
 </p>
 
@@ -104,39 +143,6 @@ MSc Computing (DevOps), ATU · researched the carbon cost of CI/CD pipelines.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/Umer-2612/msc-devops-dissertation">Greening the Pipeline</a></h3>
-
-<p align="center"><i>MSc DevOps research · ATU Donegal</i></p>
-
-<p align="center">Measures the <b>carbon cost of CI/CD</b> across 5 open-source projects (HTTPie, got, Retrofit, resty, Gson) and compares which pipeline changes cut it most. Full replication package included.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Green_Software-2EA44F?style=flat"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/Umer-2612/memory-core">memory-core</a></h3>
-
-<p align="center"><i>Long-term memory for AI apps</i></p>
-
-<p align="center"><b>FastAPI</b> service that stores and retrieves memories with <b>semantic search on pgvector</b>, using free local embeddings. Optional Claude integration.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/>
-</p>
-
-</td>
-</tr>
 </table>
 
 <details>
@@ -145,6 +151,8 @@ MSc Computing (DevOps), ATU · researched the carbon cost of CI/CD pipelines.
 
 | Project | What it is |
 |---|---|
+| [Greening the Pipeline](https://github.com/Umer-2612/msc-devops-dissertation) | MSc DevOps research at ATU Donegal: measures the **carbon cost of CI/CD** across 5 open-source projects (HTTPie, got, Retrofit, resty, Gson) and compares which pipeline changes cut it most. Full replication package included |
+| [memory-core](https://github.com/Umer-2612/memory-core) | **FastAPI** service for long-term AI memory: semantic search on **pgvector** with free local embeddings, optional Claude integration |
 | [Restaurant platform (Australia)](https://github.com/Umer-2612/Restaurant-Api) | Backend API with **Stripe** payments and admin controls for a live client restaurant site, on AWS EC2 with health checks and auto-restart |
 | Multi-Agent Voice AI Framework | Multi-agent framework for GPT-driven business automation: agent memory, tool use and reasoning loops, with encrypted message queues and anonymised logs |
 | [FedSC-Risk](https://github.com/Umer-2612/FedSC-Risk) | Federated learning with **differential privacy** (Flower, Opacus, PyTorch) for supply chain risk prediction |
@@ -188,7 +196,6 @@ MSc Computing (DevOps), ATU · researched the carbon cost of CI/CD pipelines.
 
 ## 🏆 Recognition
 
-- **Apple GenAI Hackathon**: led a cross-functional team, project shortlisted for sponsorship
 - **Employee of the Month** ("The Challenge Seeker") at WebOsmotic, for backend work
 - **FusionHack 2024 finalist**: Go API for event management with real-time scheduling
 - **300+** problems solved on LeetCode and other platforms · mentored **20+** students for coding interviews
