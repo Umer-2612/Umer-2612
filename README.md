@@ -76,6 +76,8 @@ MSc Computing (DevOps), ATU · researched the carbon cost of CI/CD pipelines.
 
 <p align="center">CI regression gate for <b>MCP servers</b>. Records what a server's tools return and fails the build when the output gets worse, even when the schema does not change. Reproduced against a <b>real bug in the official filesystem server</b>. Published on PyPI.</p>
 
+<p align="center"><a href="https://medium.com/@karachiwalaumer2612/mcp-server-testing-in-ci-the-bug-no-schema-check-can-see-39cfce248043">Write-up: MCP server testing in CI</a></p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-000000?style=flat"/>
@@ -133,6 +135,8 @@ MSc Computing (DevOps), ATU · researched the carbon cost of CI/CD pipelines.
 </p>
 
 <p align="center">Self-hosted <b>WebSocket speech-to-text</b>. Streams partial and final transcripts, and uses a <b>turn-detection model</b> to decide when a speaker is done, not a fixed silence timeout.</p>
+
+<p align="center"><a href="https://medium.com/@karachiwalaumer2612/detecting-when-a-speaker-is-done-turn-detection-for-real-time-transcription-ef38a321765f">Write-up: Detecting when a speaker is done</a></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
