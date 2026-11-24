@@ -15,20 +15,18 @@ SANS = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 
 TERMINAL_LINES = [
     ("whoami", "Umer Karachiwala"),
-    ("cat role", "Backend & DevOps Engineer · ex-Apple Software Engineer Intern"),
-    ("cat focus", "distributed systems · event-driven backends · real-time AI pipelines"),
-    ("uptime", "2+ yrs shipping production systems · based in Dublin, Ireland"),
+    ("cat role", "Full stack Software Engineer · previously at Apple"),
+    ("cat pitch", "I build apps from the screen to the server"),
+    ("uptime", "3+ yrs · Dublin, Ireland · right to work (Stamp 1G)"),
 ]
 
 METRICS = [
-    "2+ Years Shipping Production Systems",
-    "ex-Apple Software Engineer Intern",
-    "900K+ Apple Store URLs Schedulable",
-    "~100 Stuck Changesets Unblocked",
-    "~80% Faster Resolution",
-    "Multi-DC Search on OpenSearch",
-    "Sub-second Live Audio Pipeline",
-    "Apple GenAI Hackathon Lead · Shortlisted for Sponsorship",
+    "Previously at Apple",
+    "900,000+ Apple Store Pages Made Searchable",
+    "100+ Live Sessions at Once",
+    "3+ Years Building Software",
+    "MSc Computing · 2:1",
+    "Open Source on PyPI",
 ]
 
 CARD_WIDTH = 900
@@ -77,7 +75,7 @@ def build_terminal_card() -> str:
     )
     height = y + 36
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{CARD_WIDTH}" height="{height}" viewBox="0 0 {CARD_WIDTH} {height}" role="img" aria-label="Umer Karachiwala, Backend and DevOps Engineer">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{CARD_WIDTH}" height="{height}" viewBox="0 0 {CARD_WIDTH} {height}" role="img" aria-label="Umer Karachiwala, Full stack Software Engineer, previously at Apple">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b120e"/><stop offset="1" stop-color="#0d1117"/>
