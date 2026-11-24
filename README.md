@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.umer-karachiwala.com/"><img src="assets/terminal-card.svg" width="900" alt="Umer Karachiwala · Full stack Software Engineer · previously at Apple · Dublin, Ireland"/></a>
+<a href="https://www.umer-karachiwala.com/"><img src="assets/terminal-card.svg?v=2" width="900" alt="Umer Karachiwala · Full stack Software Engineer · previously at Apple · Dublin, Ireland"/></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="assets/metrics-pills.svg" width="900" alt="Previously at Apple · 900,000+ Apple Store pages made searchable · 100+ live sessions at once · 3+ years building software · MSc Computing, 2:1 · Open source on PyPI"/>
+<img src="assets/metrics-pills.svg?v=2" width="900" alt="Previously at Apple · 900,000+ Apple Store pages made searchable · 100+ live sessions at once · 3+ years building software · MSc Computing, 2:1 · Open source on PyPI"/>
 </p>
 
 <h3 align="center">I build apps from the screen to the server.</h3>
